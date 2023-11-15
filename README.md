@@ -1,1 +1,0 @@
-# sangminee.github.io
