@@ -54,6 +54,8 @@ plainwhite:
 # Build settings
 # theme: plainwhite
 
+futrue: ture
+
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
